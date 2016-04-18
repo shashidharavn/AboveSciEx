@@ -1,0 +1,19 @@
+1460957271420,1336,TestCase-01-Create a new user-Admin,200,OK,Thread Group 1-1,text,true,992,1,1,1335
+1460957272787,933,TestCase-02-Create a new user-FSE,200,OK,Thread Group 1-1,text,true,870,1,1,933
+1460957273721,964,TestCase-03-Create a new user-Customer,200,OK,Thread Group 1-1,text,true,883,1,1,964
+1460957274691,561,TestCase-04-Create a new user-ERROR-User Already exists,200,OK,Thread Group 1-1,text,true,365,1,1,561
+1460957275254,602,TestCase-05-Create a new user-ERROR-role and type is not correct,400,Bad Request,Thread Group 1-1,text,true,424,1,1,602
+1460957275858,610,TestCase-06-Create a new user-ERROR-role is not defined,400,Bad Request,Thread Group 1-1,text,true,415,1,1,609
+1460957276469,921,Testcase-07-Member-Find the information of all existing users,200,OK,Thread Group 1-1,text,true,48733,1,1,307
+1460957277397,545,Testcase-08-Member-Find the information of existing user using userid,200,OK,Thread Group 1-1,text,true,1764,1,1,300
+1460957277944,675,Testcase-09-Member-Update the information of existing user,200,OK,Thread Group 1-1,text,true,519,1,1,674
+1460957278620,613,Testcase-10-Member-Delete the information of existing user,200,OK,Thread Group 1-1,text,true,518,1,1,613
+1460957279235,612,Testcase-11-Collections-Create a new collection-Homogeneous-True,200,OK,Thread Group 1-1,text,true,577,1,1,612
+1460957279849,613,Testcase-12-Collections-Create a new collection-Homogeneous-false,200,OK,Thread Group 1-1,text,true,562,1,1,613
+1460957280465,588,Testcase-13-Collections-Error-invalid collectionName,400,Bad Request,Thread Group 1-1,text,true,427,1,1,588
+1460957281054,828,Testcase-14-Collections-Error-heterogeneous,400,Bad Request,Thread Group 1-1,text,true,450,1,1,828
+1460957281883,628,Testcase-16-Collections-Find all the existing collections,200,OK,Thread Group 1-1,text,true,3372,1,1,292
+1460957282513,626,Testcase-17-Collections-FindbyName-Find collection based on collection name,200,OK,Thread Group 1-1,text,true,561,1,1,626
+1460957283140,673,Testcase-18-Collections-Size-Calculate the size of elements in a collection,200,OK,Thread Group 1-1,text,true,570,1,1,673
+1460957283815,556,Testcase-19-Collections-Update-Update collection based on collectionName,200,OK,Thread Group 1-1,text,true,581,1,1,556
+1460957284372,568,Testcase-21-Collections-Delete-Delete collection based on collectionName,200,OK,Thread Group 1-1,text,true,580,1,1,567
